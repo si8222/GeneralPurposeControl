@@ -1,0 +1,32 @@
+{
+    "cmake.sourceDirectory": "${workspaceFolder}/source",
+    "files.associations": {
+        "qlist": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp",
+        "ratio": "cpp",
+        "array": "cpp",
+        "functional": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "utility": "cpp",
+        "variant": "cpp",
+        "ranges": "cpp",
+        "atomic": "cpp",
+        "*.tcc": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "random": "cpp",
+        "sstream": "cpp",
+        "string_view": "cpp",
+        "bit": "cpp",
+        "deque": "cpp",
+        "algorithm": "cpp",
+        "memory_resource": "cpp",
+        "memory": "cpp",
+        "initializer_list": "cpp",
+        "stdexcept": "cpp",
+        "new": "cpp"
+    }
+}

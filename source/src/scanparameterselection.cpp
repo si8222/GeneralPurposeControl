@@ -150,15 +150,18 @@ ScanParameterSelection::~ScanParameterSelection()
 }
 
 void ScanParameterSelection::scanParameterInit(){
+    qDebug() <<"ScanParamSel:ScanParameterInit ";
     if (deviceSelectionIndex>=DeviceManager::activeDevicesList.size()){
         return;
     }
+    
     setScanCounter = 0;
     parameterCurrentValue = parameterBeginValue;
     MeasurementValue scanParameter;
     scanParameter.name = ui->scanParameterSelectionCombobox->currentText();
     scanParameter.value = parameterBeginValue;
     DeviceManager::activeDevicesList.at(deviceSelectionIndex)->setScanParameter(scanParameter);
+   
 }
 
 void ScanParameterSelection::onDeviceScanParameterReady(QString deviceName, quint64 number){
@@ -166,6 +169,7 @@ void ScanParameterSelection::onDeviceScanParameterReady(QString deviceName, quin
 }
 
 void ScanParameterSelection::nextScanParameterStep(){
+    qDebug()<<"nextStep";
     // changes scan parameter value to the next step (within selected range and settings)
     if (deviceSelectionIndex>=DeviceManager::activeDevicesList.size()){
         emit completedLoop();
@@ -180,7 +184,7 @@ void ScanParameterSelection::nextScanParameterStep(){
 
     // following should only happen when ramping
     setScanCounter++;
-
+    qDebug() <<"Scan Param:setscancounter: "<<setScanCounter;
     MeasurementValue scanParameter;
     // determine which value will be next and if the loop is finished
     bool newLoop = false;
@@ -195,10 +199,12 @@ void ScanParameterSelection::nextScanParameterStep(){
         switch(ui->stepsCombobox->currentIndex()){
         case 0:
             parameterCurrentValue = parameterCurrentValue + (parameterEndValue-parameterBeginValue)/(stepNumber-1);
+            
             break;
         case 1:
             parameterCurrentValue = parameterCurrentValue + stepNumber;
         default:
+            
             break;
         }
         if (parameterCurrentValue>parameterEndValue){
