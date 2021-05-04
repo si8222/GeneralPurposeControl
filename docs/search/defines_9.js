@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['missing_5ffunc_5ffmt_1495',['MISSING_FUNC_FMT',['../i2cbusses_8h.html#a1039c4b6b57bd59b18b448d5ac99a30e',1,'i2cbusses.h']]],
-  ['mode_5fauto_1496',['MODE_AUTO',['../custom__i2cdetect_8h.html#a218df7e0782356433e03c268670203e3',1,'custom_i2cdetect.h']]]
+  ['linux_2707',['linux',['../moc__predefs_8h.html#aa092b0d4c1d4d4407b97024f6cb2820c',1,'moc_predefs.h']]],
+  ['lm75_5faddr_2708',['LM75_ADDR',['../addresses_8h.html#a48b0d5e3234086fa92932198b565eb6b',1,'addresses.h']]]
 ];

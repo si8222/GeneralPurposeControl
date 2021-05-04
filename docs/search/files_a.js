@@ -1,21 +1,5 @@
 var searchData=
 [
-  ['scanparameterselection_2ecpp_857',['scanparameterselection.cpp',['../scanparameterselection_8cpp.html',1,'']]],
-  ['scanparameterselection_2eh_858',['scanparameterselection.h',['../scanparameterselection_8h.html',1,'']]],
-  ['scpidevice_2ecpp_859',['scpidevice.cpp',['../scpidevice_8cpp.html',1,'']]],
-  ['scpidevice_2eh_860',['scpidevice.h',['../scpidevice_8h.html',1,'']]],
-  ['serial_2ecpp_861',['serial.cpp',['../serial_8cpp.html',1,'']]],
-  ['serial_2eh_862',['serial.h',['../serial_8h.html',1,'']]],
-  ['serialadapter_2ecpp_863',['serialadapter.cpp',['../serialadapter_8cpp.html',1,'']]],
-  ['serialadapter_2eh_864',['serialadapter.h',['../serialadapter_8h.html',1,'']]],
-  ['serialconsole_2ecpp_865',['serialconsole.cpp',['../serialconsole_8cpp.html',1,'']]],
-  ['serialconsole_2eh_866',['serialconsole.h',['../serialconsole_8h.html',1,'']]],
-  ['settings_2ecpp_867',['settings.cpp',['../settings_8cpp.html',1,'']]],
-  ['settings_2eh_868',['settings.h',['../settings_8h.html',1,'']]],
-  ['sourcetronic_5fst2819a_2ecpp_869',['sourcetronic_st2819a.cpp',['../sourcetronic__st2819a_8cpp.html',1,'']]],
-  ['sourcetronic_5fst2819a_2eh_870',['sourcetronic_st2819a.h',['../sourcetronic__st2819a_8h.html',1,'']]],
-  ['sourcetronic_5fst2826_2ecpp_871',['sourcetronic_st2826.cpp',['../sourcetronic__st2826_8cpp.html',1,'']]],
-  ['sourcetronic_5fst2826_2eh_872',['sourcetronic_st2826.h',['../sourcetronic__st2826_8h.html',1,'']]],
-  ['spi_2ecpp_873',['spi.cpp',['../spi_8cpp.html',1,'']]],
-  ['spi_2eh_874',['spi.h',['../spi_8h.html',1,'']]]
+  ['rigol_5fdsa1030a_2ecpp_1519',['rigol_dsa1030a.cpp',['../rigol__dsa1030a_8cpp.html',1,'']]],
+  ['rigol_5fdsa1030a_2eh_1520',['rigol_dsa1030a.h',['../rigol__dsa1030a_8h.html',1,'']]]
 ];

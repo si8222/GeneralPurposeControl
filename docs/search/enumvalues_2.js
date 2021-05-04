@@ -1,16 +1,16 @@
 var searchData=
 [
-  ['c0_1385',['C0',['../class_p_c_a9536.html#adf9ebd693c889261a3cb065e9030efb9a51bd7bb0a1c79069e147e452dc808976',1,'PCA9536']]],
-  ['c1_1386',['C1',['../class_p_c_a9536.html#adf9ebd693c889261a3cb065e9030efb9a92466be8d3209335c1e2bac5c974b85f',1,'PCA9536']]],
-  ['c3_1387',['C3',['../class_p_c_a9536.html#adf9ebd693c889261a3cb065e9030efb9a8787e3e2c53c590d63663ede405455c4',1,'PCA9536']]],
-  ['c4_1388',['C4',['../class_p_c_a9536.html#adf9ebd693c889261a3cb065e9030efb9a3b76dbae8c98bde681d3da4659fb79d7',1,'PCA9536']]],
-  ['ch0_1389',['CH0',['../class_a_d_s1115.html#ac71519615a35198d8a979a65adbf443ea4a9d7545e7364a27924c5d2d872a0115',1,'ADS1115']]],
-  ['ch0_5f1_1390',['CH0_1',['../class_a_d_s1115.html#a40882617710118c183106ede65339271ad590c629d79f94edfc7898433d5bf22b',1,'ADS1115']]],
-  ['ch0_5f3_1391',['CH0_3',['../class_a_d_s1115.html#a40882617710118c183106ede65339271a0958bae7313cfaeda4233b8060f74123',1,'ADS1115']]],
-  ['ch1_1392',['CH1',['../class_a_d_s1115.html#ac71519615a35198d8a979a65adbf443eacd38d204e3df35b37bfa202f7e3bfcf4',1,'ADS1115']]],
-  ['ch1_5f3_1393',['CH1_3',['../class_a_d_s1115.html#a40882617710118c183106ede65339271a90d99f89502de90b80028b02dcec4476',1,'ADS1115']]],
-  ['ch2_1394',['CH2',['../class_a_d_s1115.html#ac71519615a35198d8a979a65adbf443ea57f7bc0852afe60a7241a1ec5673f463',1,'ADS1115']]],
-  ['ch2_5f3_1395',['CH2_3',['../class_a_d_s1115.html#a40882617710118c183106ede65339271acd392beae77033dc0db4a7ed67e30557',1,'ADS1115']]],
-  ['ch3_1396',['CH3',['../class_a_d_s1115.html#ac71519615a35198d8a979a65adbf443eacaeb2492cd4726678fa82e2bc910dc10',1,'ADS1115']]],
-  ['config_5freg_1397',['CONFIG_REG',['../class_p_c_a9536.html#af3bd974631bd8cf068142e302a81935da8c9348eda98464a42d56129146d29ec4',1,'PCA9536']]]
+  ['c0_2193',['C0',['../class_p_c_a9536.html#adf9ebd693c889261a3cb065e9030efb9a51bd7bb0a1c79069e147e452dc808976',1,'PCA9536']]],
+  ['c1_2194',['C1',['../class_p_c_a9536.html#adf9ebd693c889261a3cb065e9030efb9a92466be8d3209335c1e2bac5c974b85f',1,'PCA9536']]],
+  ['c3_2195',['C3',['../class_p_c_a9536.html#adf9ebd693c889261a3cb065e9030efb9a8787e3e2c53c590d63663ede405455c4',1,'PCA9536']]],
+  ['c4_2196',['C4',['../class_p_c_a9536.html#adf9ebd693c889261a3cb065e9030efb9a3b76dbae8c98bde681d3da4659fb79d7',1,'PCA9536']]],
+  ['ch0_2197',['CH0',['../class_a_d_s1115.html#ac71519615a35198d8a979a65adbf443ea4a9d7545e7364a27924c5d2d872a0115',1,'ADS1115']]],
+  ['ch0_5f1_2198',['CH0_1',['../class_a_d_s1115.html#a40882617710118c183106ede65339271ad590c629d79f94edfc7898433d5bf22b',1,'ADS1115']]],
+  ['ch0_5f3_2199',['CH0_3',['../class_a_d_s1115.html#a40882617710118c183106ede65339271a0958bae7313cfaeda4233b8060f74123',1,'ADS1115']]],
+  ['ch1_2200',['CH1',['../class_a_d_s1115.html#ac71519615a35198d8a979a65adbf443eacd38d204e3df35b37bfa202f7e3bfcf4',1,'ADS1115']]],
+  ['ch1_5f3_2201',['CH1_3',['../class_a_d_s1115.html#a40882617710118c183106ede65339271a90d99f89502de90b80028b02dcec4476',1,'ADS1115']]],
+  ['ch2_2202',['CH2',['../class_a_d_s1115.html#ac71519615a35198d8a979a65adbf443ea57f7bc0852afe60a7241a1ec5673f463',1,'ADS1115']]],
+  ['ch2_5f3_2203',['CH2_3',['../class_a_d_s1115.html#a40882617710118c183106ede65339271acd392beae77033dc0db4a7ed67e30557',1,'ADS1115']]],
+  ['ch3_2204',['CH3',['../class_a_d_s1115.html#ac71519615a35198d8a979a65adbf443eacaeb2492cd4726678fa82e2bc910dc10',1,'ADS1115']]],
+  ['config_5freg_2205',['CONFIG_REG',['../class_p_c_a9536.html#af3bd974631bd8cf068142e302a81935da8c9348eda98464a42d56129146d29ec4',1,'PCA9536']]]
 ];

@@ -1,14 +1,22 @@
 var searchData=
 [
-  ['activedevicenamemodel_1223',['activeDeviceNameModel',['../class_device_manager.html#a97a5bd49b88fd12476817d77f0ab39f9',1,'DeviceManager']]],
-  ['activedeviceslist_1224',['activeDevicesList',['../class_device_manager.html#a446bb144afec72139c6141cdcb645f28',1,'DeviceManager']]],
-  ['activemeasparams_1225',['activeMeasParams',['../class_scpi_device.html#af7b94ddbe009f0ae4336c5a0a1bf9b21',1,'ScpiDevice']]],
-  ['adap_5ftypes_1226',['adap_types',['../i2cbusses_8c.html#ab92f58b2d674848b9e1a37a2f1e6e46c',1,'i2cbusses.c']]],
-  ['adc_5fh_1227',['adc_H',['../struct_t_p_h.html#a31b15b6c087a5a3e2d7a11deeb6f7eaf',1,'TPH']]],
-  ['adc_5fp_1228',['adc_P',['../struct_t_p_h.html#aaf39d22aee11b5e4af669139daa4b0c9',1,'TPH']]],
-  ['adc_5ft_1229',['adc_T',['../struct_t_p_h.html#aa61ef98edbffc7e5a8c17669303d3250',1,'TPH']]],
-  ['addr_1230',['addr',['../structi2c__msg.html#a9be257e05859e69552791192b68a8654',1,'i2c_msg']]],
-  ['algo_1231',['algo',['../structi2c__adap.html#a052f8b04c1278111548a8fed665613e6',1,'i2c_adap::algo()'],['../structadap__type.html#ae1c08857044b9aff501e5f08f10f9d3e',1,'adap_type::algo()']]],
-  ['alldevicenamemodel_1232',['allDeviceNameModel',['../class_device_manager.html#a936cac463d257c8b942189669c875a17',1,'DeviceManager']]],
-  ['allinterfacenamemodel_1233',['allInterfaceNameModel',['../class_device_manager.html#aa2ae2f6b6611973e990e041c895d013c',1,'DeviceManager']]]
+  ['actionopen_5fsettings_1898',['actionopen_settings',['../class_ui___main_window.html#a671c3ed23c6745a1bdde7391975d1181',1,'Ui_MainWindow']]],
+  ['actionselect_5foutput_5ffile_1899',['actionselect_output_file',['../class_ui___main_window.html#a4837e2da5c6dede21cc5a7224b47baf3',1,'Ui_MainWindow']]],
+  ['actionserial_5fconsole_1900',['actionSerial_Console',['../class_ui___main_window.html#af551308980ffe8f5277b530f727c106c',1,'Ui_MainWindow']]],
+  ['activedevicenamemodel_1901',['activeDeviceNameModel',['../class_device_manager.html#a97a5bd49b88fd12476817d77f0ab39f9',1,'DeviceManager']]],
+  ['activedeviceslist_1902',['activeDevicesList',['../class_device_manager.html#a446bb144afec72139c6141cdcb645f28',1,'DeviceManager']]],
+  ['activemeasparams_1903',['activeMeasParams',['../class_scpi_device.html#af7b94ddbe009f0ae4336c5a0a1bf9b21',1,'ScpiDevice']]],
+  ['adap_5ftypes_1904',['adap_types',['../i2cbusses_8c.html#ab92f58b2d674848b9e1a37a2f1e6e46c',1,'i2cbusses.c']]],
+  ['adc_5fh_1905',['adc_H',['../struct_t_p_h.html#a31b15b6c087a5a3e2d7a11deeb6f7eaf',1,'TPH']]],
+  ['adc_5fp_1906',['adc_P',['../struct_t_p_h.html#aaf39d22aee11b5e4af669139daa4b0c9',1,'TPH']]],
+  ['adc_5ft_1907',['adc_T',['../struct_t_p_h.html#aa61ef98edbffc7e5a8c17669303d3250',1,'TPH']]],
+  ['addadjustvaluebutton_1908',['addAdjustValueButton',['../class_ui___main_window.html#af00cc6583c2a1733256240c4e368808a',1,'Ui_MainWindow']]],
+  ['addbuttonlayout_1909',['addButtonLayout',['../class_ui___main_window.html#a050d444871523d8bbefc5730de0c75eb',1,'Ui_MainWindow']]],
+  ['addbuttonlayout_5f2_1910',['addButtonLayout_2',['../class_ui___main_window.html#aec93eb19adee807ee7e7c931b0b6a78a',1,'Ui_MainWindow']]],
+  ['adddevicebutton_1911',['addDeviceButton',['../class_ui___main_window.html#a2d0461793df4288b679c57a3144b89c7',1,'Ui_MainWindow']]],
+  ['addr_1912',['addr',['../structi2c__msg.html#a9be257e05859e69552791192b68a8654',1,'i2c_msg']]],
+  ['algo_1913',['algo',['../structi2c__adap.html#a052f8b04c1278111548a8fed665613e6',1,'i2c_adap::algo()'],['../structadap__type.html#ae1c08857044b9aff501e5f08f10f9d3e',1,'adap_type::algo()']]],
+  ['alldevicenamemodel_1914',['allDeviceNameModel',['../class_device_manager.html#a936cac463d257c8b942189669c875a17',1,'DeviceManager']]],
+  ['allinterfacenamemodel_1915',['allInterfaceNameModel',['../class_device_manager.html#aa2ae2f6b6611973e990e041c895d013c',1,'DeviceManager']]],
+  ['autofilecheckbox_1916',['autoFileCheckbox',['../class_ui___main_window.html#a24749c4080ea651d89a8f3612e2bada9',1,'Ui_MainWindow']]]
 ];

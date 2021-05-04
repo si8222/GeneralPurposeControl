@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['voltcraft_5fpsp1803_2ecpp_877',['voltcraft_psp1803.cpp',['../voltcraft__psp1803_8cpp.html',1,'']]],
-  ['voltcraft_5fpsp1803_2eh_878',['voltcraft_psp1803.h',['../voltcraft__psp1803_8h.html',1,'']]]
+  ['tektronix_5fdmm4020_2ecpp_1539',['tektronix_dmm4020.cpp',['../tektronix__dmm4020_8cpp.html',1,'']]],
+  ['tektronix_5fdmm4020_2eh_1540',['tektronix_dmm4020.h',['../tektronix__dmm4020_8h.html',1,'']]]
 ];
