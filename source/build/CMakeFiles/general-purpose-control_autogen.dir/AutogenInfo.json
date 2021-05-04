@@ -1,0 +1,266 @@
+{
+	"BUILD_DIR" : "/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/build/general-purpose-control_autogen",
+	"CMAKE_BINARY_DIR" : "/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_SOURCE_DIR" : "/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source",
+	"HEADERS" : 
+	[
+		[
+			"/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/include/devicemanager.h",
+			"MU",
+			"6YEA5652QU/moc_devicemanager.cpp"
+		],
+		[
+			"/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/include/devices/dummy.h",
+			"MU",
+			"5YXSHRQA26/moc_dummy.cpp"
+		],
+		[
+			"/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/include/devices/gw_instek_gpd4303s.h",
+			"MU",
+			"5YXSHRQA26/moc_gw_instek_gpd4303s.cpp"
+		],
+		[
+			"/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/include/devices/hameg_hm8143.h",
+			"MU",
+			"5YXSHRQA26/moc_hameg_hm8143.cpp"
+		],
+		[
+			"/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/include/devices/hp_34401a.h",
+			"MU",
+			"5YXSHRQA26/moc_hp_34401a.cpp"
+		],
+		[
+			"/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/include/devices/keithley_2000.h",
+			"MU",
+			"5YXSHRQA26/moc_keithley_2000.cpp"
+		],
+		[
+			"/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/include/devices/keithley_2410.h",
+			"MU",
+			"5YXSHRQA26/moc_keithley_2410.cpp"
+		],
+		[
+			"/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/include/devices/rigol_dsa1030a.h",
+			"MU",
+			"5YXSHRQA26/moc_rigol_dsa1030a.cpp"
+		],
+		[
+			"/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/include/devices/scpidevice.h",
+			"MU",
+			"5YXSHRQA26/moc_scpidevice.cpp"
+		],
+		[
+			"/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/include/devices/sourcetronic_st2819a.h",
+			"MU",
+			"5YXSHRQA26/moc_sourcetronic_st2819a.cpp"
+		],
+		[
+			"/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/include/devices/sourcetronic_st2826.h",
+			"MU",
+			"5YXSHRQA26/moc_sourcetronic_st2826.cpp"
+		],
+		[
+			"/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/include/devices/tektronix_dmm4020.h",
+			"MU",
+			"5YXSHRQA26/moc_tektronix_dmm4020.cpp"
+		],
+		[
+			"/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/include/devices/voltcraft_psp1803.h",
+			"MU",
+			"5YXSHRQA26/moc_voltcraft_psp1803.cpp"
+		],
+		[
+			"/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/include/filehandler.h",
+			"MU",
+			"6YEA5652QU/moc_filehandler.cpp"
+		],
+		[
+			"/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/include/mainwindow.h",
+			"MU",
+			"6YEA5652QU/moc_mainwindow.cpp"
+		],
+		[
+			"/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/include/measurementdevice.h",
+			"MU",
+			"6YEA5652QU/moc_measurementdevice.cpp"
+		],
+		[
+			"/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/include/scanparameterselection.h",
+			"MU",
+			"6YEA5652QU/moc_scanparameterselection.cpp"
+		],
+		[
+			"/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/include/serial.h",
+			"MU",
+			"6YEA5652QU/moc_serial.cpp"
+		],
+		[
+			"/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/include/serialconsole.h",
+			"MU",
+			"6YEA5652QU/moc_serialconsole.cpp"
+		],
+		[
+			"/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/include/settings.h",
+			"MU",
+			"6YEA5652QU/moc_settings.cpp"
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/build/general-purpose-control_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/build/general-purpose-control_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_SERIALPORT_LIB",
+		"QT_SVG_LIB",
+		"QT_WIDGETS_LIB"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/include",
+		"/usr/include/aarch64-linux-gnu/qt5",
+		"/usr/include/aarch64-linux-gnu/qt5/QtSvg",
+		"/usr/include/aarch64-linux-gnu/qt5/QtWidgets",
+		"/usr/include/aarch64-linux-gnu/qt5/QtGui",
+		"/usr/include/aarch64-linux-gnu/qt5/QtCore",
+		"/usr/lib/aarch64-linux-gnu/qt5/mkspecs/linux-g++",
+		"/usr/include/aarch64-linux-gnu/qt5/QtSerialPort",
+		"/usr/include/c++/10",
+		"/usr/include/aarch64-linux-gnu/c++/10",
+		"/usr/include/c++/10/backward",
+		"/usr/lib/gcc/aarch64-linux-gnu/10/include",
+		"/usr/local/include",
+		"/usr/include/aarch64-linux-gnu",
+		"/usr/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : true,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/bin/aarch64-linux-gnu-g++-10",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake-3.16/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/build/general-purpose-control_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : 
+	[
+		"/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/build/qrc_resources.cpp"
+	],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 1,
+	"PARSE_CACHE_FILE" : "/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/build/CMakeFiles/general-purpose-control_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt5/bin/moc",
+	"QT_UIC_EXECUTABLE" : "/usr/lib/qt5/bin/uic",
+	"QT_VERSION_MAJOR" : 5,
+	"SETTINGS_FILE" : "/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/build/CMakeFiles/general-purpose-control_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devicemanager.cpp",
+			"MU"
+		],
+		[
+			"/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/dummy.cpp",
+			"MU"
+		],
+		[
+			"/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/gw_instek_gpd4303s.cpp",
+			"MU"
+		],
+		[
+			"/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/hameg_hm8143.cpp",
+			"MU"
+		],
+		[
+			"/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/hp_34401a.cpp",
+			"MU"
+		],
+		[
+			"/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/keithley_2000.cpp",
+			"MU"
+		],
+		[
+			"/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/keithley_2410.cpp",
+			"MU"
+		],
+		[
+			"/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/rigol_dsa1030a.cpp",
+			"MU"
+		],
+		[
+			"/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/scpidevice.cpp",
+			"MU"
+		],
+		[
+			"/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/sourcetronic_st2819a.cpp",
+			"MU"
+		],
+		[
+			"/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/sourcetronic_st2826.cpp",
+			"MU"
+		],
+		[
+			"/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/tektronix_dmm4020.cpp",
+			"MU"
+		],
+		[
+			"/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/voltcraft_psp1803.cpp",
+			"MU"
+		],
+		[
+			"/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/filehandler.cpp",
+			"MU"
+		],
+		[
+			"/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/main.cpp",
+			"MU"
+		],
+		[
+			"/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/mainwindow.cpp",
+			"MU"
+		],
+		[
+			"/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/measurementdevice.cpp",
+			"MU"
+		],
+		[
+			"/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/scanparameterselection.cpp",
+			"MU"
+		],
+		[
+			"/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/serial.cpp",
+			"MU"
+		],
+		[
+			"/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/serialconsole.cpp",
+			"MU"
+		],
+		[
+			"/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/settings.cpp",
+			"MU"
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [ "/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src" ],
+	"UIC_SKIP" : 
+	[
+		"/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/build/qrc_resources.cpp"
+	],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

@@ -33,13 +33,10 @@ struct MeasurementValue{
         name = _name;
         value = _value;
         value1 = _value1;
-       
     }
     QString name;
     double value;
     double value1;
-    
-   
 };
 
 #endif // MEASUREMENTPARAMETER_H

@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "general-purpose-control",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "changelog::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-changelog-Debug-98eed0a1bc96c7d4150c.json",
+					"name" : "changelog",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "general-purpose-control::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-general-purpose-control-Debug-34aa3f438339042291bf.json",
+					"name" : "general-purpose-control",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "general-purpose-control_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-general-purpose-control_autogen-Debug-69d512e2b6b997d2ffbf.json",
+					"name" : "general-purpose-control_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/build",
+		"source" : "/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

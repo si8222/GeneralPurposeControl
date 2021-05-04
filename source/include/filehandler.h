@@ -43,7 +43,6 @@ private:
     QMap<quint64, QStringList> valueLineListMap;
     quint64 bufferedLines = 100;
     QString x,y=0;
-    
 };
 
 #endif // FILEHANDLER_H

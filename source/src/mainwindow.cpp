@@ -144,7 +144,6 @@ void MainWindow::onStartMeasurementButtonClicked(){
             disconnect(device,&MeasurementDevice::measuredValues,fileHandler,&FileHandler::onReceivingValues);
             disconnect(device,&MeasurementDevice::measureReady,this,&MainWindow::onMeasureReady);
         }
-        
         connectScanValues(false);
         intervalTimer.stop();
         // put here any command for force quit
@@ -165,7 +164,6 @@ void MainWindow::onMeasureReady(QString deviceName, quint64 number){
     }
     qDebug() << "measurement ongoing = "<<ongoingMeasurement;
     scanParameterReadyCounter = numberOfScanparameterSelections;
-    
     this->nextInterval();
     qDebug()<<"Mainw onscan4";
     this->probeProgress(0);
@@ -184,7 +182,7 @@ void MainWindow::onScanParamSelReady(QString deviceName, quint64 number){
 }
 
 void MainWindow::onTimerTimeout(){
-qDebug()<<"Mainw timer";
+qDebug()<<"Mainw timer!";
     measurementReadyCounter = DeviceManager::activeDevicesList.size();
     emit measure(++measCount);
 }

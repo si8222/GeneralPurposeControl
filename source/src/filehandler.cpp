@@ -71,10 +71,8 @@ void FileHandler::setOutputAutomatic(bool autoOutput){
 }
 
 void FileHandler::onReceivingValues(QString deviceName, QList<MeasurementValue>values, quint64 number){
-    //qDebug() << deviceName << " " << number //number gibt cycle nummer an 
-
+    //qDebug() << deviceName << " " << number //number gibt cycle nummer an
     for (auto value : values){
-        
         qDebug() << value.name << value.value;
     }
     for (auto value1 : values){
@@ -86,9 +84,6 @@ void FileHandler::onReceivingValues(QString deviceName, QList<MeasurementValue>v
     if (deviceName==""||values.empty()){
         return;
     }
-    
-    
-
     QStringList valuesList;
     //valuesList=new QStringList();
     /*
@@ -125,18 +120,16 @@ void FileHandler::onReceivingValues(QString deviceName, QList<MeasurementValue>v
         valuesList[(fileHeaderStrings.indexOf(fileHeader))] = QString("%1").arg(value1.value1);
     }
     */
-   
-   if (valuesList[1]!="")
-   {
-       x=valuesList[1];
-       qDebug()<<x<<"x";
-   } 
-   if (valuesList[2]!="")
-   {
-       y=valuesList[2];
-       qDebug()<<y<<"y";
-   } 
-
+    if (valuesList[1]!="")
+    {
+        x=valuesList[1];
+        qDebug()<<x<<"x";
+    }
+    if (valuesList[2]!="")
+    {
+        y=valuesList[2];
+        qDebug()<<y<<"y";
+    }
 
     qDebug()<< "valuelist2";
     qDebug() << "after filling valuesList";

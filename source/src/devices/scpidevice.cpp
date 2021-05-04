@@ -44,7 +44,6 @@ void ScpiDevice::onReceivedMessage(QString message){
         if (checkDevice(message)==false){
 
         }
-        
         return;
     }
     // build measurement values and send them
@@ -54,16 +53,14 @@ void ScpiDevice::onReceivedMessage(QString message){
     }
     double val = translateInc(message);
     double val1 = translateInc1(message);
-    
     if (val1 !=0)
     {
        measureResults.append(MeasurementValue(activeMeasParams.takeFirst(),val,val1));
     }else
     {
         measureResults.append(MeasurementValue(activeMeasParams.takeFirst(),val));
-    } 
+    }
 
-    
     //measureResults.append(MeasurementValue(activeMeasParams.takeFirst(),val,val1));
     qDebug() <<"TEST!"<<message<<val<<val1;
     if (activeMeasParams.isEmpty()){

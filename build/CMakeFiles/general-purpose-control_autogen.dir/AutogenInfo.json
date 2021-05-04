@@ -115,6 +115,7 @@
 	[
 		"QT_CORE_LIB",
 		"QT_GUI_LIB",
+		"QT_NO_DEBUG",
 		"QT_SERIALPORT_LIB",
 		"QT_SVG_LIB",
 		"QT_WIDGETS_LIB"
@@ -149,7 +150,7 @@
 	"MOC_PATH_PREFIX" : true,
 	"MOC_PREDEFS_CMD" : 
 	[
-		"/bin/aarch64-linux-gnu-g++-10",
+		"/usr/bin/c++",
 		"-dM",
 		"-E",
 		"-c",

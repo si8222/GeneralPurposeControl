@@ -70,7 +70,6 @@ QPointer<MeasurementDevice> DeviceManager::getDevice(QString deviceName, QString
     if (deviceName == deviceNameList.at(9)){
         device = new SourceTronic_ST2826(portName);
     }
-    
     activeDevicesList.append(device);
     return device;
 }

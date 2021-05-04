@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+89ee2fed48b10e4d222110ed06438923 CMakeFiles/changelog
+25bf2fd797ee88614083bc8013fb314d CMakeFiles/general-purpose-control_autogen
+a0127d86da2a244b0c26772b88196676 qrc_resources.cpp

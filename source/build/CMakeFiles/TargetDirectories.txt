@@ -1,0 +1,11 @@
+/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/build/CMakeFiles/install/strip.dir
+/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/build/CMakeFiles/install/local.dir
+/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/build/CMakeFiles/edit_cache.dir
+/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/build/CMakeFiles/package_source.dir
+/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/build/CMakeFiles/install.dir
+/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/build/CMakeFiles/list_install_components.dir
+/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/build/CMakeFiles/rebuild_cache.dir
+/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/build/CMakeFiles/package.dir
+/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/build/CMakeFiles/changelog.dir
+/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/build/CMakeFiles/general-purpose-control.dir
+/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/build/CMakeFiles/general-purpose-control_autogen.dir

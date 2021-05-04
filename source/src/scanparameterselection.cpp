@@ -154,14 +154,12 @@ void ScanParameterSelection::scanParameterInit(){
     if (deviceSelectionIndex>=DeviceManager::activeDevicesList.size()){
         return;
     }
-    
     setScanCounter = 0;
     parameterCurrentValue = parameterBeginValue;
     MeasurementValue scanParameter;
     scanParameter.name = ui->scanParameterSelectionCombobox->currentText();
     scanParameter.value = parameterBeginValue;
     DeviceManager::activeDevicesList.at(deviceSelectionIndex)->setScanParameter(scanParameter);
-   
 }
 
 void ScanParameterSelection::onDeviceScanParameterReady(QString deviceName, quint64 number){
@@ -179,6 +177,8 @@ void ScanParameterSelection::nextScanParameterStep(){
     bool fixedMode = ui->scanParameterAdjustMode->currentText()=="fixed";
     if (fixedMode){
         emit completedLoop();
+        MeasurementDevice* device = DeviceManager::activeDevicesList.at(deviceSelectionIndex);
+        device->scanParameterReady(device->deviceName(),0);
         return;
     }
 
@@ -189,22 +189,23 @@ void ScanParameterSelection::nextScanParameterStep(){
     // determine which value will be next and if the loop is finished
     bool newLoop = false;
     if (ui->scanParameterAdjustMode->currentText()=="ramp"){
+        MeasurementDevice* device = DeviceManager::activeDevicesList.at(deviceSelectionIndex);
+        device->scanParameterReady(device->deviceName(),0);
         // if ramping
         if (parameterCurrentValue == parameterEndValue||
                 (parameterEndValue-parameterCurrentValue)<0.1*(parameterEndValue-parameterBeginValue)/(stepNumber-1)){
             //qDebug() << "deviceSelectionIndex: " << deviceSelectionIndex << " completedLoop";
             emit completedLoop();
+            
             newLoop = true;
         }
         switch(ui->stepsCombobox->currentIndex()){
         case 0:
             parameterCurrentValue = parameterCurrentValue + (parameterEndValue-parameterBeginValue)/(stepNumber-1);
-            
             break;
         case 1:
             parameterCurrentValue = parameterCurrentValue + stepNumber;
         default:
-            
             break;
         }
         if (parameterCurrentValue>parameterEndValue){
@@ -213,7 +214,7 @@ void ScanParameterSelection::nextScanParameterStep(){
         scanParameter.value = parameterCurrentValue;
         if (newLoop){
             parameterCurrentValue = parameterBeginValue;
-            scanParameter.value = parameterBeginValue;
+            scanParameter.value = parameterBeginValue;   
         }
     }
     scanParameter.name = ui->scanParameterSelectionCombobox->currentText();

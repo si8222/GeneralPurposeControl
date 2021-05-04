@@ -55,7 +55,7 @@ include CMakeFiles/general-purpose-control_autogen.dir/progress.make
 
 CMakeFiles/general-purpose-control_autogen:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target general-purpose-control"
-	/usr/bin/cmake -E cmake_autogen /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/build/CMakeFiles/general-purpose-control_autogen.dir/AutogenInfo.json Debug
+	/usr/bin/cmake -E cmake_autogen /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/build/CMakeFiles/general-purpose-control_autogen.dir/AutogenInfo.json ""
 
 general-purpose-control_autogen: CMakeFiles/general-purpose-control_autogen
 general-purpose-control_autogen: CMakeFiles/general-purpose-control_autogen.dir/build.make

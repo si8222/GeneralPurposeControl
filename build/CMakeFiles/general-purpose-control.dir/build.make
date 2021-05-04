@@ -73,301 +73,301 @@ qrc_resources.cpp: /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/res/
 CMakeFiles/general-purpose-control.dir/general-purpose-control_autogen/mocs_compilation.cpp.o: CMakeFiles/general-purpose-control.dir/flags.make
 CMakeFiles/general-purpose-control.dir/general-purpose-control_autogen/mocs_compilation.cpp.o: general-purpose-control_autogen/mocs_compilation.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/general-purpose-control.dir/general-purpose-control_autogen/mocs_compilation.cpp.o"
-	/bin/aarch64-linux-gnu-g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/general-purpose-control.dir/general-purpose-control_autogen/mocs_compilation.cpp.o -c /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/build/general-purpose-control_autogen/mocs_compilation.cpp
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/general-purpose-control.dir/general-purpose-control_autogen/mocs_compilation.cpp.o -c /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/build/general-purpose-control_autogen/mocs_compilation.cpp
 
 CMakeFiles/general-purpose-control.dir/general-purpose-control_autogen/mocs_compilation.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/general-purpose-control.dir/general-purpose-control_autogen/mocs_compilation.cpp.i"
-	/bin/aarch64-linux-gnu-g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/build/general-purpose-control_autogen/mocs_compilation.cpp > CMakeFiles/general-purpose-control.dir/general-purpose-control_autogen/mocs_compilation.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/build/general-purpose-control_autogen/mocs_compilation.cpp > CMakeFiles/general-purpose-control.dir/general-purpose-control_autogen/mocs_compilation.cpp.i
 
 CMakeFiles/general-purpose-control.dir/general-purpose-control_autogen/mocs_compilation.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/general-purpose-control.dir/general-purpose-control_autogen/mocs_compilation.cpp.s"
-	/bin/aarch64-linux-gnu-g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/build/general-purpose-control_autogen/mocs_compilation.cpp -o CMakeFiles/general-purpose-control.dir/general-purpose-control_autogen/mocs_compilation.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/build/general-purpose-control_autogen/mocs_compilation.cpp -o CMakeFiles/general-purpose-control.dir/general-purpose-control_autogen/mocs_compilation.cpp.s
 
 CMakeFiles/general-purpose-control.dir/src/devicemanager.cpp.o: CMakeFiles/general-purpose-control.dir/flags.make
 CMakeFiles/general-purpose-control.dir/src/devicemanager.cpp.o: /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devicemanager.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/general-purpose-control.dir/src/devicemanager.cpp.o"
-	/bin/aarch64-linux-gnu-g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/general-purpose-control.dir/src/devicemanager.cpp.o -c /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devicemanager.cpp
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/general-purpose-control.dir/src/devicemanager.cpp.o -c /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devicemanager.cpp
 
 CMakeFiles/general-purpose-control.dir/src/devicemanager.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/general-purpose-control.dir/src/devicemanager.cpp.i"
-	/bin/aarch64-linux-gnu-g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devicemanager.cpp > CMakeFiles/general-purpose-control.dir/src/devicemanager.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devicemanager.cpp > CMakeFiles/general-purpose-control.dir/src/devicemanager.cpp.i
 
 CMakeFiles/general-purpose-control.dir/src/devicemanager.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/general-purpose-control.dir/src/devicemanager.cpp.s"
-	/bin/aarch64-linux-gnu-g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devicemanager.cpp -o CMakeFiles/general-purpose-control.dir/src/devicemanager.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devicemanager.cpp -o CMakeFiles/general-purpose-control.dir/src/devicemanager.cpp.s
 
 CMakeFiles/general-purpose-control.dir/src/devices/dummy.cpp.o: CMakeFiles/general-purpose-control.dir/flags.make
 CMakeFiles/general-purpose-control.dir/src/devices/dummy.cpp.o: /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/dummy.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/general-purpose-control.dir/src/devices/dummy.cpp.o"
-	/bin/aarch64-linux-gnu-g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/general-purpose-control.dir/src/devices/dummy.cpp.o -c /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/dummy.cpp
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/general-purpose-control.dir/src/devices/dummy.cpp.o -c /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/dummy.cpp
 
 CMakeFiles/general-purpose-control.dir/src/devices/dummy.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/general-purpose-control.dir/src/devices/dummy.cpp.i"
-	/bin/aarch64-linux-gnu-g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/dummy.cpp > CMakeFiles/general-purpose-control.dir/src/devices/dummy.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/dummy.cpp > CMakeFiles/general-purpose-control.dir/src/devices/dummy.cpp.i
 
 CMakeFiles/general-purpose-control.dir/src/devices/dummy.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/general-purpose-control.dir/src/devices/dummy.cpp.s"
-	/bin/aarch64-linux-gnu-g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/dummy.cpp -o CMakeFiles/general-purpose-control.dir/src/devices/dummy.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/dummy.cpp -o CMakeFiles/general-purpose-control.dir/src/devices/dummy.cpp.s
 
 CMakeFiles/general-purpose-control.dir/src/filehandler.cpp.o: CMakeFiles/general-purpose-control.dir/flags.make
 CMakeFiles/general-purpose-control.dir/src/filehandler.cpp.o: /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/filehandler.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/general-purpose-control.dir/src/filehandler.cpp.o"
-	/bin/aarch64-linux-gnu-g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/general-purpose-control.dir/src/filehandler.cpp.o -c /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/filehandler.cpp
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/general-purpose-control.dir/src/filehandler.cpp.o -c /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/filehandler.cpp
 
 CMakeFiles/general-purpose-control.dir/src/filehandler.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/general-purpose-control.dir/src/filehandler.cpp.i"
-	/bin/aarch64-linux-gnu-g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/filehandler.cpp > CMakeFiles/general-purpose-control.dir/src/filehandler.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/filehandler.cpp > CMakeFiles/general-purpose-control.dir/src/filehandler.cpp.i
 
 CMakeFiles/general-purpose-control.dir/src/filehandler.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/general-purpose-control.dir/src/filehandler.cpp.s"
-	/bin/aarch64-linux-gnu-g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/filehandler.cpp -o CMakeFiles/general-purpose-control.dir/src/filehandler.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/filehandler.cpp -o CMakeFiles/general-purpose-control.dir/src/filehandler.cpp.s
 
 CMakeFiles/general-purpose-control.dir/src/scanparameterselection.cpp.o: CMakeFiles/general-purpose-control.dir/flags.make
 CMakeFiles/general-purpose-control.dir/src/scanparameterselection.cpp.o: /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/scanparameterselection.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/general-purpose-control.dir/src/scanparameterselection.cpp.o"
-	/bin/aarch64-linux-gnu-g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/general-purpose-control.dir/src/scanparameterselection.cpp.o -c /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/scanparameterselection.cpp
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/general-purpose-control.dir/src/scanparameterselection.cpp.o -c /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/scanparameterselection.cpp
 
 CMakeFiles/general-purpose-control.dir/src/scanparameterselection.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/general-purpose-control.dir/src/scanparameterselection.cpp.i"
-	/bin/aarch64-linux-gnu-g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/scanparameterselection.cpp > CMakeFiles/general-purpose-control.dir/src/scanparameterselection.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/scanparameterselection.cpp > CMakeFiles/general-purpose-control.dir/src/scanparameterselection.cpp.i
 
 CMakeFiles/general-purpose-control.dir/src/scanparameterselection.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/general-purpose-control.dir/src/scanparameterselection.cpp.s"
-	/bin/aarch64-linux-gnu-g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/scanparameterselection.cpp -o CMakeFiles/general-purpose-control.dir/src/scanparameterselection.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/scanparameterselection.cpp -o CMakeFiles/general-purpose-control.dir/src/scanparameterselection.cpp.s
 
 CMakeFiles/general-purpose-control.dir/src/serialconsole.cpp.o: CMakeFiles/general-purpose-control.dir/flags.make
 CMakeFiles/general-purpose-control.dir/src/serialconsole.cpp.o: /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/serialconsole.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/general-purpose-control.dir/src/serialconsole.cpp.o"
-	/bin/aarch64-linux-gnu-g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/general-purpose-control.dir/src/serialconsole.cpp.o -c /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/serialconsole.cpp
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/general-purpose-control.dir/src/serialconsole.cpp.o -c /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/serialconsole.cpp
 
 CMakeFiles/general-purpose-control.dir/src/serialconsole.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/general-purpose-control.dir/src/serialconsole.cpp.i"
-	/bin/aarch64-linux-gnu-g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/serialconsole.cpp > CMakeFiles/general-purpose-control.dir/src/serialconsole.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/serialconsole.cpp > CMakeFiles/general-purpose-control.dir/src/serialconsole.cpp.i
 
 CMakeFiles/general-purpose-control.dir/src/serialconsole.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/general-purpose-control.dir/src/serialconsole.cpp.s"
-	/bin/aarch64-linux-gnu-g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/serialconsole.cpp -o CMakeFiles/general-purpose-control.dir/src/serialconsole.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/serialconsole.cpp -o CMakeFiles/general-purpose-control.dir/src/serialconsole.cpp.s
 
 CMakeFiles/general-purpose-control.dir/src/devices/keithley_2000.cpp.o: CMakeFiles/general-purpose-control.dir/flags.make
 CMakeFiles/general-purpose-control.dir/src/devices/keithley_2000.cpp.o: /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/keithley_2000.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/general-purpose-control.dir/src/devices/keithley_2000.cpp.o"
-	/bin/aarch64-linux-gnu-g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/general-purpose-control.dir/src/devices/keithley_2000.cpp.o -c /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/keithley_2000.cpp
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/general-purpose-control.dir/src/devices/keithley_2000.cpp.o -c /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/keithley_2000.cpp
 
 CMakeFiles/general-purpose-control.dir/src/devices/keithley_2000.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/general-purpose-control.dir/src/devices/keithley_2000.cpp.i"
-	/bin/aarch64-linux-gnu-g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/keithley_2000.cpp > CMakeFiles/general-purpose-control.dir/src/devices/keithley_2000.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/keithley_2000.cpp > CMakeFiles/general-purpose-control.dir/src/devices/keithley_2000.cpp.i
 
 CMakeFiles/general-purpose-control.dir/src/devices/keithley_2000.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/general-purpose-control.dir/src/devices/keithley_2000.cpp.s"
-	/bin/aarch64-linux-gnu-g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/keithley_2000.cpp -o CMakeFiles/general-purpose-control.dir/src/devices/keithley_2000.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/keithley_2000.cpp -o CMakeFiles/general-purpose-control.dir/src/devices/keithley_2000.cpp.s
 
 CMakeFiles/general-purpose-control.dir/src/devices/keithley_2410.cpp.o: CMakeFiles/general-purpose-control.dir/flags.make
 CMakeFiles/general-purpose-control.dir/src/devices/keithley_2410.cpp.o: /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/keithley_2410.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/general-purpose-control.dir/src/devices/keithley_2410.cpp.o"
-	/bin/aarch64-linux-gnu-g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/general-purpose-control.dir/src/devices/keithley_2410.cpp.o -c /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/keithley_2410.cpp
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/general-purpose-control.dir/src/devices/keithley_2410.cpp.o -c /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/keithley_2410.cpp
 
 CMakeFiles/general-purpose-control.dir/src/devices/keithley_2410.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/general-purpose-control.dir/src/devices/keithley_2410.cpp.i"
-	/bin/aarch64-linux-gnu-g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/keithley_2410.cpp > CMakeFiles/general-purpose-control.dir/src/devices/keithley_2410.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/keithley_2410.cpp > CMakeFiles/general-purpose-control.dir/src/devices/keithley_2410.cpp.i
 
 CMakeFiles/general-purpose-control.dir/src/devices/keithley_2410.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/general-purpose-control.dir/src/devices/keithley_2410.cpp.s"
-	/bin/aarch64-linux-gnu-g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/keithley_2410.cpp -o CMakeFiles/general-purpose-control.dir/src/devices/keithley_2410.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/keithley_2410.cpp -o CMakeFiles/general-purpose-control.dir/src/devices/keithley_2410.cpp.s
 
 CMakeFiles/general-purpose-control.dir/src/main.cpp.o: CMakeFiles/general-purpose-control.dir/flags.make
 CMakeFiles/general-purpose-control.dir/src/main.cpp.o: /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/main.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/general-purpose-control.dir/src/main.cpp.o"
-	/bin/aarch64-linux-gnu-g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/general-purpose-control.dir/src/main.cpp.o -c /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/main.cpp
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/general-purpose-control.dir/src/main.cpp.o -c /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/main.cpp
 
 CMakeFiles/general-purpose-control.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/general-purpose-control.dir/src/main.cpp.i"
-	/bin/aarch64-linux-gnu-g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/main.cpp > CMakeFiles/general-purpose-control.dir/src/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/main.cpp > CMakeFiles/general-purpose-control.dir/src/main.cpp.i
 
 CMakeFiles/general-purpose-control.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/general-purpose-control.dir/src/main.cpp.s"
-	/bin/aarch64-linux-gnu-g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/main.cpp -o CMakeFiles/general-purpose-control.dir/src/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/main.cpp -o CMakeFiles/general-purpose-control.dir/src/main.cpp.s
 
 CMakeFiles/general-purpose-control.dir/src/mainwindow.cpp.o: CMakeFiles/general-purpose-control.dir/flags.make
 CMakeFiles/general-purpose-control.dir/src/mainwindow.cpp.o: /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/mainwindow.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/general-purpose-control.dir/src/mainwindow.cpp.o"
-	/bin/aarch64-linux-gnu-g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/general-purpose-control.dir/src/mainwindow.cpp.o -c /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/mainwindow.cpp
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/general-purpose-control.dir/src/mainwindow.cpp.o -c /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/mainwindow.cpp
 
 CMakeFiles/general-purpose-control.dir/src/mainwindow.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/general-purpose-control.dir/src/mainwindow.cpp.i"
-	/bin/aarch64-linux-gnu-g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/mainwindow.cpp > CMakeFiles/general-purpose-control.dir/src/mainwindow.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/mainwindow.cpp > CMakeFiles/general-purpose-control.dir/src/mainwindow.cpp.i
 
 CMakeFiles/general-purpose-control.dir/src/mainwindow.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/general-purpose-control.dir/src/mainwindow.cpp.s"
-	/bin/aarch64-linux-gnu-g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/mainwindow.cpp -o CMakeFiles/general-purpose-control.dir/src/mainwindow.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/mainwindow.cpp -o CMakeFiles/general-purpose-control.dir/src/mainwindow.cpp.s
 
 CMakeFiles/general-purpose-control.dir/src/measurementdevice.cpp.o: CMakeFiles/general-purpose-control.dir/flags.make
 CMakeFiles/general-purpose-control.dir/src/measurementdevice.cpp.o: /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/measurementdevice.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/general-purpose-control.dir/src/measurementdevice.cpp.o"
-	/bin/aarch64-linux-gnu-g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/general-purpose-control.dir/src/measurementdevice.cpp.o -c /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/measurementdevice.cpp
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/general-purpose-control.dir/src/measurementdevice.cpp.o -c /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/measurementdevice.cpp
 
 CMakeFiles/general-purpose-control.dir/src/measurementdevice.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/general-purpose-control.dir/src/measurementdevice.cpp.i"
-	/bin/aarch64-linux-gnu-g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/measurementdevice.cpp > CMakeFiles/general-purpose-control.dir/src/measurementdevice.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/measurementdevice.cpp > CMakeFiles/general-purpose-control.dir/src/measurementdevice.cpp.i
 
 CMakeFiles/general-purpose-control.dir/src/measurementdevice.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/general-purpose-control.dir/src/measurementdevice.cpp.s"
-	/bin/aarch64-linux-gnu-g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/measurementdevice.cpp -o CMakeFiles/general-purpose-control.dir/src/measurementdevice.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/measurementdevice.cpp -o CMakeFiles/general-purpose-control.dir/src/measurementdevice.cpp.s
 
 CMakeFiles/general-purpose-control.dir/src/settings.cpp.o: CMakeFiles/general-purpose-control.dir/flags.make
 CMakeFiles/general-purpose-control.dir/src/settings.cpp.o: /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/settings.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/general-purpose-control.dir/src/settings.cpp.o"
-	/bin/aarch64-linux-gnu-g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/general-purpose-control.dir/src/settings.cpp.o -c /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/settings.cpp
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/general-purpose-control.dir/src/settings.cpp.o -c /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/settings.cpp
 
 CMakeFiles/general-purpose-control.dir/src/settings.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/general-purpose-control.dir/src/settings.cpp.i"
-	/bin/aarch64-linux-gnu-g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/settings.cpp > CMakeFiles/general-purpose-control.dir/src/settings.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/settings.cpp > CMakeFiles/general-purpose-control.dir/src/settings.cpp.i
 
 CMakeFiles/general-purpose-control.dir/src/settings.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/general-purpose-control.dir/src/settings.cpp.s"
-	/bin/aarch64-linux-gnu-g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/settings.cpp -o CMakeFiles/general-purpose-control.dir/src/settings.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/settings.cpp -o CMakeFiles/general-purpose-control.dir/src/settings.cpp.s
 
 CMakeFiles/general-purpose-control.dir/src/devices/scpidevice.cpp.o: CMakeFiles/general-purpose-control.dir/flags.make
 CMakeFiles/general-purpose-control.dir/src/devices/scpidevice.cpp.o: /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/scpidevice.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/general-purpose-control.dir/src/devices/scpidevice.cpp.o"
-	/bin/aarch64-linux-gnu-g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/general-purpose-control.dir/src/devices/scpidevice.cpp.o -c /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/scpidevice.cpp
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/general-purpose-control.dir/src/devices/scpidevice.cpp.o -c /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/scpidevice.cpp
 
 CMakeFiles/general-purpose-control.dir/src/devices/scpidevice.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/general-purpose-control.dir/src/devices/scpidevice.cpp.i"
-	/bin/aarch64-linux-gnu-g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/scpidevice.cpp > CMakeFiles/general-purpose-control.dir/src/devices/scpidevice.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/scpidevice.cpp > CMakeFiles/general-purpose-control.dir/src/devices/scpidevice.cpp.i
 
 CMakeFiles/general-purpose-control.dir/src/devices/scpidevice.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/general-purpose-control.dir/src/devices/scpidevice.cpp.s"
-	/bin/aarch64-linux-gnu-g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/scpidevice.cpp -o CMakeFiles/general-purpose-control.dir/src/devices/scpidevice.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/scpidevice.cpp -o CMakeFiles/general-purpose-control.dir/src/devices/scpidevice.cpp.s
 
 CMakeFiles/general-purpose-control.dir/src/devices/sourcetronic_st2819a.cpp.o: CMakeFiles/general-purpose-control.dir/flags.make
 CMakeFiles/general-purpose-control.dir/src/devices/sourcetronic_st2819a.cpp.o: /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/sourcetronic_st2819a.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/general-purpose-control.dir/src/devices/sourcetronic_st2819a.cpp.o"
-	/bin/aarch64-linux-gnu-g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/general-purpose-control.dir/src/devices/sourcetronic_st2819a.cpp.o -c /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/sourcetronic_st2819a.cpp
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/general-purpose-control.dir/src/devices/sourcetronic_st2819a.cpp.o -c /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/sourcetronic_st2819a.cpp
 
 CMakeFiles/general-purpose-control.dir/src/devices/sourcetronic_st2819a.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/general-purpose-control.dir/src/devices/sourcetronic_st2819a.cpp.i"
-	/bin/aarch64-linux-gnu-g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/sourcetronic_st2819a.cpp > CMakeFiles/general-purpose-control.dir/src/devices/sourcetronic_st2819a.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/sourcetronic_st2819a.cpp > CMakeFiles/general-purpose-control.dir/src/devices/sourcetronic_st2819a.cpp.i
 
 CMakeFiles/general-purpose-control.dir/src/devices/sourcetronic_st2819a.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/general-purpose-control.dir/src/devices/sourcetronic_st2819a.cpp.s"
-	/bin/aarch64-linux-gnu-g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/sourcetronic_st2819a.cpp -o CMakeFiles/general-purpose-control.dir/src/devices/sourcetronic_st2819a.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/sourcetronic_st2819a.cpp -o CMakeFiles/general-purpose-control.dir/src/devices/sourcetronic_st2819a.cpp.s
 
 CMakeFiles/general-purpose-control.dir/src/devices/sourcetronic_st2826.cpp.o: CMakeFiles/general-purpose-control.dir/flags.make
 CMakeFiles/general-purpose-control.dir/src/devices/sourcetronic_st2826.cpp.o: /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/sourcetronic_st2826.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/general-purpose-control.dir/src/devices/sourcetronic_st2826.cpp.o"
-	/bin/aarch64-linux-gnu-g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/general-purpose-control.dir/src/devices/sourcetronic_st2826.cpp.o -c /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/sourcetronic_st2826.cpp
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/general-purpose-control.dir/src/devices/sourcetronic_st2826.cpp.o -c /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/sourcetronic_st2826.cpp
 
 CMakeFiles/general-purpose-control.dir/src/devices/sourcetronic_st2826.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/general-purpose-control.dir/src/devices/sourcetronic_st2826.cpp.i"
-	/bin/aarch64-linux-gnu-g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/sourcetronic_st2826.cpp > CMakeFiles/general-purpose-control.dir/src/devices/sourcetronic_st2826.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/sourcetronic_st2826.cpp > CMakeFiles/general-purpose-control.dir/src/devices/sourcetronic_st2826.cpp.i
 
 CMakeFiles/general-purpose-control.dir/src/devices/sourcetronic_st2826.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/general-purpose-control.dir/src/devices/sourcetronic_st2826.cpp.s"
-	/bin/aarch64-linux-gnu-g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/sourcetronic_st2826.cpp -o CMakeFiles/general-purpose-control.dir/src/devices/sourcetronic_st2826.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/sourcetronic_st2826.cpp -o CMakeFiles/general-purpose-control.dir/src/devices/sourcetronic_st2826.cpp.s
 
 CMakeFiles/general-purpose-control.dir/src/devices/rigol_dsa1030a.cpp.o: CMakeFiles/general-purpose-control.dir/flags.make
 CMakeFiles/general-purpose-control.dir/src/devices/rigol_dsa1030a.cpp.o: /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/rigol_dsa1030a.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/general-purpose-control.dir/src/devices/rigol_dsa1030a.cpp.o"
-	/bin/aarch64-linux-gnu-g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/general-purpose-control.dir/src/devices/rigol_dsa1030a.cpp.o -c /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/rigol_dsa1030a.cpp
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/general-purpose-control.dir/src/devices/rigol_dsa1030a.cpp.o -c /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/rigol_dsa1030a.cpp
 
 CMakeFiles/general-purpose-control.dir/src/devices/rigol_dsa1030a.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/general-purpose-control.dir/src/devices/rigol_dsa1030a.cpp.i"
-	/bin/aarch64-linux-gnu-g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/rigol_dsa1030a.cpp > CMakeFiles/general-purpose-control.dir/src/devices/rigol_dsa1030a.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/rigol_dsa1030a.cpp > CMakeFiles/general-purpose-control.dir/src/devices/rigol_dsa1030a.cpp.i
 
 CMakeFiles/general-purpose-control.dir/src/devices/rigol_dsa1030a.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/general-purpose-control.dir/src/devices/rigol_dsa1030a.cpp.s"
-	/bin/aarch64-linux-gnu-g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/rigol_dsa1030a.cpp -o CMakeFiles/general-purpose-control.dir/src/devices/rigol_dsa1030a.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/rigol_dsa1030a.cpp -o CMakeFiles/general-purpose-control.dir/src/devices/rigol_dsa1030a.cpp.s
 
 CMakeFiles/general-purpose-control.dir/src/devices/hameg_hm8143.cpp.o: CMakeFiles/general-purpose-control.dir/flags.make
 CMakeFiles/general-purpose-control.dir/src/devices/hameg_hm8143.cpp.o: /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/hameg_hm8143.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/general-purpose-control.dir/src/devices/hameg_hm8143.cpp.o"
-	/bin/aarch64-linux-gnu-g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/general-purpose-control.dir/src/devices/hameg_hm8143.cpp.o -c /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/hameg_hm8143.cpp
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/general-purpose-control.dir/src/devices/hameg_hm8143.cpp.o -c /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/hameg_hm8143.cpp
 
 CMakeFiles/general-purpose-control.dir/src/devices/hameg_hm8143.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/general-purpose-control.dir/src/devices/hameg_hm8143.cpp.i"
-	/bin/aarch64-linux-gnu-g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/hameg_hm8143.cpp > CMakeFiles/general-purpose-control.dir/src/devices/hameg_hm8143.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/hameg_hm8143.cpp > CMakeFiles/general-purpose-control.dir/src/devices/hameg_hm8143.cpp.i
 
 CMakeFiles/general-purpose-control.dir/src/devices/hameg_hm8143.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/general-purpose-control.dir/src/devices/hameg_hm8143.cpp.s"
-	/bin/aarch64-linux-gnu-g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/hameg_hm8143.cpp -o CMakeFiles/general-purpose-control.dir/src/devices/hameg_hm8143.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/hameg_hm8143.cpp -o CMakeFiles/general-purpose-control.dir/src/devices/hameg_hm8143.cpp.s
 
 CMakeFiles/general-purpose-control.dir/src/devices/gw_instek_gpd4303s.cpp.o: CMakeFiles/general-purpose-control.dir/flags.make
 CMakeFiles/general-purpose-control.dir/src/devices/gw_instek_gpd4303s.cpp.o: /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/gw_instek_gpd4303s.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/general-purpose-control.dir/src/devices/gw_instek_gpd4303s.cpp.o"
-	/bin/aarch64-linux-gnu-g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/general-purpose-control.dir/src/devices/gw_instek_gpd4303s.cpp.o -c /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/gw_instek_gpd4303s.cpp
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/general-purpose-control.dir/src/devices/gw_instek_gpd4303s.cpp.o -c /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/gw_instek_gpd4303s.cpp
 
 CMakeFiles/general-purpose-control.dir/src/devices/gw_instek_gpd4303s.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/general-purpose-control.dir/src/devices/gw_instek_gpd4303s.cpp.i"
-	/bin/aarch64-linux-gnu-g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/gw_instek_gpd4303s.cpp > CMakeFiles/general-purpose-control.dir/src/devices/gw_instek_gpd4303s.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/gw_instek_gpd4303s.cpp > CMakeFiles/general-purpose-control.dir/src/devices/gw_instek_gpd4303s.cpp.i
 
 CMakeFiles/general-purpose-control.dir/src/devices/gw_instek_gpd4303s.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/general-purpose-control.dir/src/devices/gw_instek_gpd4303s.cpp.s"
-	/bin/aarch64-linux-gnu-g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/gw_instek_gpd4303s.cpp -o CMakeFiles/general-purpose-control.dir/src/devices/gw_instek_gpd4303s.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/gw_instek_gpd4303s.cpp -o CMakeFiles/general-purpose-control.dir/src/devices/gw_instek_gpd4303s.cpp.s
 
 CMakeFiles/general-purpose-control.dir/src/devices/hp_34401a.cpp.o: CMakeFiles/general-purpose-control.dir/flags.make
 CMakeFiles/general-purpose-control.dir/src/devices/hp_34401a.cpp.o: /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/hp_34401a.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/general-purpose-control.dir/src/devices/hp_34401a.cpp.o"
-	/bin/aarch64-linux-gnu-g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/general-purpose-control.dir/src/devices/hp_34401a.cpp.o -c /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/hp_34401a.cpp
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/general-purpose-control.dir/src/devices/hp_34401a.cpp.o -c /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/hp_34401a.cpp
 
 CMakeFiles/general-purpose-control.dir/src/devices/hp_34401a.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/general-purpose-control.dir/src/devices/hp_34401a.cpp.i"
-	/bin/aarch64-linux-gnu-g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/hp_34401a.cpp > CMakeFiles/general-purpose-control.dir/src/devices/hp_34401a.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/hp_34401a.cpp > CMakeFiles/general-purpose-control.dir/src/devices/hp_34401a.cpp.i
 
 CMakeFiles/general-purpose-control.dir/src/devices/hp_34401a.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/general-purpose-control.dir/src/devices/hp_34401a.cpp.s"
-	/bin/aarch64-linux-gnu-g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/hp_34401a.cpp -o CMakeFiles/general-purpose-control.dir/src/devices/hp_34401a.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/hp_34401a.cpp -o CMakeFiles/general-purpose-control.dir/src/devices/hp_34401a.cpp.s
 
 CMakeFiles/general-purpose-control.dir/src/devices/tektronix_dmm4020.cpp.o: CMakeFiles/general-purpose-control.dir/flags.make
 CMakeFiles/general-purpose-control.dir/src/devices/tektronix_dmm4020.cpp.o: /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/tektronix_dmm4020.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/general-purpose-control.dir/src/devices/tektronix_dmm4020.cpp.o"
-	/bin/aarch64-linux-gnu-g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/general-purpose-control.dir/src/devices/tektronix_dmm4020.cpp.o -c /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/tektronix_dmm4020.cpp
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/general-purpose-control.dir/src/devices/tektronix_dmm4020.cpp.o -c /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/tektronix_dmm4020.cpp
 
 CMakeFiles/general-purpose-control.dir/src/devices/tektronix_dmm4020.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/general-purpose-control.dir/src/devices/tektronix_dmm4020.cpp.i"
-	/bin/aarch64-linux-gnu-g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/tektronix_dmm4020.cpp > CMakeFiles/general-purpose-control.dir/src/devices/tektronix_dmm4020.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/tektronix_dmm4020.cpp > CMakeFiles/general-purpose-control.dir/src/devices/tektronix_dmm4020.cpp.i
 
 CMakeFiles/general-purpose-control.dir/src/devices/tektronix_dmm4020.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/general-purpose-control.dir/src/devices/tektronix_dmm4020.cpp.s"
-	/bin/aarch64-linux-gnu-g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/tektronix_dmm4020.cpp -o CMakeFiles/general-purpose-control.dir/src/devices/tektronix_dmm4020.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/tektronix_dmm4020.cpp -o CMakeFiles/general-purpose-control.dir/src/devices/tektronix_dmm4020.cpp.s
 
 CMakeFiles/general-purpose-control.dir/src/devices/voltcraft_psp1803.cpp.o: CMakeFiles/general-purpose-control.dir/flags.make
 CMakeFiles/general-purpose-control.dir/src/devices/voltcraft_psp1803.cpp.o: /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/voltcraft_psp1803.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/general-purpose-control.dir/src/devices/voltcraft_psp1803.cpp.o"
-	/bin/aarch64-linux-gnu-g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/general-purpose-control.dir/src/devices/voltcraft_psp1803.cpp.o -c /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/voltcraft_psp1803.cpp
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/general-purpose-control.dir/src/devices/voltcraft_psp1803.cpp.o -c /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/voltcraft_psp1803.cpp
 
 CMakeFiles/general-purpose-control.dir/src/devices/voltcraft_psp1803.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/general-purpose-control.dir/src/devices/voltcraft_psp1803.cpp.i"
-	/bin/aarch64-linux-gnu-g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/voltcraft_psp1803.cpp > CMakeFiles/general-purpose-control.dir/src/devices/voltcraft_psp1803.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/voltcraft_psp1803.cpp > CMakeFiles/general-purpose-control.dir/src/devices/voltcraft_psp1803.cpp.i
 
 CMakeFiles/general-purpose-control.dir/src/devices/voltcraft_psp1803.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/general-purpose-control.dir/src/devices/voltcraft_psp1803.cpp.s"
-	/bin/aarch64-linux-gnu-g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/voltcraft_psp1803.cpp -o CMakeFiles/general-purpose-control.dir/src/devices/voltcraft_psp1803.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/devices/voltcraft_psp1803.cpp -o CMakeFiles/general-purpose-control.dir/src/devices/voltcraft_psp1803.cpp.s
 
 CMakeFiles/general-purpose-control.dir/src/serial.cpp.o: CMakeFiles/general-purpose-control.dir/flags.make
 CMakeFiles/general-purpose-control.dir/src/serial.cpp.o: /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/serial.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/general-purpose-control.dir/src/serial.cpp.o"
-	/bin/aarch64-linux-gnu-g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/general-purpose-control.dir/src/serial.cpp.o -c /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/serial.cpp
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/general-purpose-control.dir/src/serial.cpp.o -c /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/serial.cpp
 
 CMakeFiles/general-purpose-control.dir/src/serial.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/general-purpose-control.dir/src/serial.cpp.i"
-	/bin/aarch64-linux-gnu-g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/serial.cpp > CMakeFiles/general-purpose-control.dir/src/serial.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/serial.cpp > CMakeFiles/general-purpose-control.dir/src/serial.cpp.i
 
 CMakeFiles/general-purpose-control.dir/src/serial.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/general-purpose-control.dir/src/serial.cpp.s"
-	/bin/aarch64-linux-gnu-g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/serial.cpp -o CMakeFiles/general-purpose-control.dir/src/serial.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/source/src/serial.cpp -o CMakeFiles/general-purpose-control.dir/src/serial.cpp.s
 
 CMakeFiles/general-purpose-control.dir/qrc_resources.cpp.o: CMakeFiles/general-purpose-control.dir/flags.make
 CMakeFiles/general-purpose-control.dir/qrc_resources.cpp.o: qrc_resources.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/nils/Desktop/git/Ntr7/GeneralPurposeControl/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/general-purpose-control.dir/qrc_resources.cpp.o"
-	/bin/aarch64-linux-gnu-g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/general-purpose-control.dir/qrc_resources.cpp.o -c /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/build/qrc_resources.cpp
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/general-purpose-control.dir/qrc_resources.cpp.o -c /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/build/qrc_resources.cpp
 
 CMakeFiles/general-purpose-control.dir/qrc_resources.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/general-purpose-control.dir/qrc_resources.cpp.i"
-	/bin/aarch64-linux-gnu-g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/build/qrc_resources.cpp > CMakeFiles/general-purpose-control.dir/qrc_resources.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/build/qrc_resources.cpp > CMakeFiles/general-purpose-control.dir/qrc_resources.cpp.i
 
 CMakeFiles/general-purpose-control.dir/qrc_resources.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/general-purpose-control.dir/qrc_resources.cpp.s"
-	/bin/aarch64-linux-gnu-g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/build/qrc_resources.cpp -o CMakeFiles/general-purpose-control.dir/qrc_resources.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/nils/Desktop/git/Ntr7/GeneralPurposeControl/build/qrc_resources.cpp -o CMakeFiles/general-purpose-control.dir/qrc_resources.cpp.s
 
 # Object files for target general-purpose-control
 general__purpose__control_OBJECTS = \

@@ -1,6 +1,6 @@
 #include "devices/keithley_2410.h"
 
-const QMap<QString,DeviceParameterConstraint> Keithley_2410::_deviceParamMap = { 
+const QMap<QString,DeviceParameterConstraint> Keithley_2410::_deviceParamMap = {
     {"I",DeviceParameterConstraint("I", 0.0, 0.0, READONLY)},
     {"R",DeviceParameterConstraint("R", 0.0, 0.0, READONLY)},
     {"V",DeviceParameterConstraint("V", 0.0, 0.0, READWRITE)}
@@ -89,7 +89,6 @@ QString Keithley_2410::translateSet(QString paramName, double paramValue){
     if (paramName=="V"){
         scpiCommandString = ":SOUR:VOLT ";
     }
-   
     return scpiCommandString;
 }
 double Keithley_2410::translateInc(QString receivedString){
@@ -100,10 +99,8 @@ double Keithley_2410::translateInc(QString receivedString){
     double val = wert1[0].toDouble();//toDouble(&ok);
     //double val1 = wert1[1].toDouble();
     //double val2 = wert1[2].toDouble();
- 
-    
     //if (!ok){
-    //    return NAN;
+    //return NAN;
     //}
     return val;
 }
@@ -113,27 +110,20 @@ double Keithley_2410::translateInc1(QString receivedString){
     //bool ok = false;
     QStringList wert1=message.split(",");
     int x=wert1.size();
-    
     if(wert1.size()>1)
     //if (wert1[1]!=0)
     {
      double val1 = wert1[1].toDouble();
-
      return val1;
     }
     else{//double val1=0.0;
         double val1=wert1[0].toDouble();
-  
     return val1;}
     //double val = wert1[0].toDouble();//toDouble(&ok);
-   
     //double val2 = wert1[2].toDouble();
-   // qDebug()<<"TEST1"<<wert1<<val1;//<<val2;
-    
+    //qDebug()<<"TEST1"<<wert1<<val1;//<<val2;
     //if (!ok){
     //    return NAN;
     //}
     //return val1;
 }
-
-

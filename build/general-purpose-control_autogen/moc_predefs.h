@@ -52,6 +52,7 @@
 #define __FLT64X_MAX_10_EXP__ 4932
 #define QT_SERIALPORT_LIB 1
 #define __ARM_FP 14
+#define QT_NO_DEBUG 1
 #define __FLT64X_HAS_QUIET_NAN__ 1
 #define __WINT_TYPE__ unsigned int
 #define __UINT_LEAST8_MAX__ 0xff
